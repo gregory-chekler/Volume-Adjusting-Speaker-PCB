@@ -8,5 +8,5 @@ The variable resistance was connected to the inverting input so the amount of vo
 
 
 ### KiCad
-![PCB Design](PCDdesign.png)
+![PCB Design](PCBdesign.png)
 ![PCB Design](KiCad.png)
