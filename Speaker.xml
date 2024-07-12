@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\grego\Documents\KiCad\7.0\projects\Speaker.kicad_sch</source>
+    <date>11/2/2023 6:00:55 PM</date>
+    <tool>Eeschema 7.0.8</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Speaker.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="BT1">
+      <value>1291-66</value>
+      <footprint>elec240_ornament_footprint:BAT_1291-66</footprint>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/1291-66/Keystone+Electronics/view-part/?ref=eda</field>
+        <field name="Description">
+Battery Holder, Lithium-Ion, THM, 1 Cell, Cell Size 9V, Alum/Tin | Keystone Electronics 1291-66
+</field>
+        <field name="MANUFACTURER">Keystone Electronics</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">21.77 mm</field>
+        <field name="MF">Keystone Electronics</field>
+        <field name="MP">1291-66</field>
+        <field name="PARTREV">A</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=5529493&amp;manufacturer=Keystone Electronics&amp;part_name=1291-66&amp;search_term=1291-66</field>
+        <field name="SNAPEDA_PN">1291-66</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/1291-66/Keystone+Electronics/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="elec240_ornament_symbol" part="1291-66" description=""/>
+      <property name="MF" value="Keystone Electronics"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="21.77 mm"/>
+      <property name="Package" value="None"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/1291-66/Keystone+Electronics/view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="A"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/1291-66/Keystone+Electronics/view-part/?ref=snap"/>
+      <property name="MP" value="1291-66"/>
+      <property name="Purchase-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=5529493&amp;manufacturer=Keystone Electronics&amp;part_name=1291-66&amp;search_term=1291-66"/>
+      <property name="Description" value="&#xA;Battery Holder, Lithium-Ion, THM, 1 Cell, Cell Size 9V, Alum/Tin | Keystone Electronics 1291-66&#xA;"/>
+      <property name="MANUFACTURER" value="Keystone Electronics"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="SNAPEDA_PN" value="1291-66"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Speaker.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f651a736-4575-4c7a-9ac5-7ffb63a5d05e</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>0.1uF</value>
+      <footprint>elec240_ornament_footprint:CP_Radial_D6.3mm_P2.50mm</footprint>
+      <libsource lib="elec240_ornament_symbol" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Speaker.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d68e6c1b-b25a-471f-9f66-90a61fa407bc</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>220uF</value>
+      <footprint>elec240_ornament_footprint:CP_Radial_D6.3mm_P2.50mm</footprint>
+      <libsource lib="elec240_ornament_symbol" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Speaker.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4528b6de-8d9f-4e0d-bb66-b8d5ac494b1f</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>10uF</value>
+      <footprint>elec240_ornament_footprint:CP_Radial_D6.3mm_P2.50mm</footprint>
+      <libsource lib="elec240_ornament_symbol" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Speaker.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cba827ca-d1e5-416f-b695-f268ab1ffcd1</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>SJ1-3535NG-PI</value>
+      <footprint>elec240_ornament_footprint:CUI_SJ1-3535NG-PI</footprint>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="CUI_purchase_URL">https://www.cuidevices.com/product/interconnect/connectors/audio-connectors/jacks/sj1-3535ng-pi?utm_source=snapeda.com&amp;utm_medium=referral&amp;utm_campaign=snapedaBOM</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/SJ1-3535NG-PI/CUI+Devices/view-part/?ref=eda</field>
+        <field name="Description">3.5 mm Right-Angle Stereo Jack, 5 pin PCB PCB Mount, Isolated Ground, Pink</field>
+        <field name="MANUFACTURER">CUI</field>
+        <field name="MF">CUI Devices</field>
+        <field name="MP">SJ1-3535NG-PI</field>
+        <field name="PARTREV">1.02</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=464338&amp;manufacturer=CUI Devices&amp;part_name=SJ1-3535NG-PI&amp;search_term=sj1-3535ng-pi</field>
+        <field name="STANDARD">Manufacturer recommendation</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/SJ1-3535NG-PI/CUI+Devices/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="elec240_ornament_symbol" part="SJ1-3535NG-PI" description=""/>
+      <property name="MF" value="CUI Devices"/>
+      <property name="Description" value="3.5 mm Right-Angle Stereo Jack, 5 pin PCB PCB Mount, Isolated Ground, Pink"/>
+      <property name="Package" value="None"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/SJ1-3535NG-PI/CUI+Devices/view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer recommendation"/>
+      <property name="PARTREV" value="1.02"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/SJ1-3535NG-PI/CUI+Devices/view-part/?ref=snap"/>
+      <property name="MP" value="SJ1-3535NG-PI"/>
+      <property name="Purchase-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=464338&amp;manufacturer=CUI Devices&amp;part_name=SJ1-3535NG-PI&amp;search_term=sj1-3535ng-pi"/>
+      <property name="CUI_purchase_URL" value="https://www.cuidevices.com/product/interconnect/connectors/audio-connectors/jacks/sj1-3535ng-pi?utm_source=snapeda.com&amp;utm_medium=referral&amp;utm_campaign=snapedaBOM"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="CUI"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Speaker.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fd851f57-02c0-4caa-b64b-7a7bcd59ee34</tstamps>
+    </comp>
+    <comp ref="LS2">
+      <value>SMS-1508MS-HT-R</value>
+      <footprint>elec240_ornament_footprint:SPKR_SMS-1508MS-HT-R</footprint>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/SMS-1508MS-HT-R/PUI+Audio%252C+Inc./view-part/?ref=eda</field>
+        <field name="Description">
+SPEAKER .8W 8OHM 92DB 800HZ
+</field>
+        <field name="MANUFACTURER">PUI Audio, Inc.</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">4 mm</field>
+        <field name="MF">PUI Audio, Inc.</field>
+        <field name="MP">SMS-1508MS-HT-R</field>
+        <field name="PARTREV">3/6/2020</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=5873664&amp;manufacturer=PUI Audio, Inc.&amp;part_name=SMS-1508MS-HT-R&amp;search_term=speaker</field>
+        <field name="STANDARD">Manufacturer recommendations</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/SMS-1508MS-HT-R/PUI+Audio%252C+Inc./view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="elec240_ornament_symbol" part="SMS-1508MS-HT-R" description=""/>
+      <property name="MF" value="PUI Audio, Inc."/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="4 mm"/>
+      <property name="Package" value="None"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/SMS-1508MS-HT-R/PUI+Audio%252C+Inc./view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer recommendations"/>
+      <property name="PARTREV" value="3/6/2020"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/SMS-1508MS-HT-R/PUI+Audio%252C+Inc./view-part/?ref=snap"/>
+      <property name="MP" value="SMS-1508MS-HT-R"/>
+      <property name="Purchase-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=5873664&amp;manufacturer=PUI Audio, Inc.&amp;part_name=SMS-1508MS-HT-R&amp;search_term=speaker"/>
+      <property name="Description" value="&#xA;SPEAKER .8W 8OHM 92DB 800HZ&#xA;"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="PUI Audio, Inc."/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Speaker.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>06281b80-f5b7-4621-b99a-d22cc0969072</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>COM-09806</value>
+      <footprint>elec240_ornament_footprint:TRIM_COM-09806</footprint>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/COM-09806/SparkFun+Electronics/view-part/?ref=eda</field>
+        <field name="Description">
+10 kOhms 0.5W, 1/2W PC Pins Through Hole Trimmer Potentiometer Cermet 1.0 Turn Top Adjustment
+</field>
+        <field name="MANUFACTURER">Sparkfun</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">5.08 mm</field>
+        <field name="MF">SparkFun Electronics</field>
+        <field name="MP">COM-09806</field>
+        <field name="PARTREV">N/A</field>
+        <field name="Package">DIP-3 SparkFun Electronics</field>
+        <field name="Price">None</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=1133817&amp;manufacturer=SparkFun Electronics&amp;part_name=COM-09806&amp;search_term=com-09806</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/COM-09806/SparkFun+Electronics/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="elec240_ornament_symbol" part="COM-09806" description=""/>
+      <property name="MF" value="SparkFun Electronics"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="5.08 mm"/>
+      <property name="Package" value="DIP-3 SparkFun Electronics"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/COM-09806/SparkFun+Electronics/view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="N/A"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/COM-09806/SparkFun+Electronics/view-part/?ref=snap"/>
+      <property name="MP" value="COM-09806"/>
+      <property name="Purchase-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=1133817&amp;manufacturer=SparkFun Electronics&amp;part_name=COM-09806&amp;search_term=com-09806"/>
+      <property name="Description" value="&#xA;10 kOhms 0.5W, 1/2W PC Pins Through Hole Trimmer Potentiometer Cermet 1.0 Turn Top Adjustment&#xA;"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="Sparkfun"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Speaker.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c08a00aa-548a-40da-b678-5004a50941a1</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>10R</value>
+      <footprint>elec240_ornament_footprint:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="elec240_ornament_symbol" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Speaker.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8a6f87bc-4e90-49eb-a7c9-0250b71c269c</tstamps>
+    </comp>
+    <comp ref="TP6">
+      <value>TestPoint_Probe</value>
+      <footprint>elec240_ornament_footprint:TestPoint_THTPad_3.0x3.0mm_Drill1.5mm</footprint>
+      <libsource lib="elec240_ornament_symbol" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Speaker.kicad_sch"/>
+      <property name="ki_description" value="test point (alternative probe-style design)"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e8b1f42c-d105-4a30-9480-cb875d4bae2b</tstamps>
+    </comp>
+    <comp ref="TP7">
+      <value>TestPoint_Probe</value>
+      <footprint>elec240_ornament_footprint:TestPoint_THTPad_3.0x3.0mm_Drill1.5mm</footprint>
+      <libsource lib="elec240_ornament_symbol" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Speaker.kicad_sch"/>
+      <property name="ki_description" value="test point (alternative probe-style design)"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c2d08032-faa5-4d88-8689-5a0b593e2dcd</tstamps>
+    </comp>
+    <comp ref="TP8">
+      <value>TestPoint_Probe</value>
+      <footprint>elec240_ornament_footprint:TestPoint_THTPad_3.0x3.0mm_Drill1.5mm</footprint>
+      <libsource lib="elec240_ornament_symbol" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Speaker.kicad_sch"/>
+      <property name="ki_description" value="test point (alternative probe-style design)"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>91fc749d-e589-4ef7-a84f-0b448f4d3ba8</tstamps>
+    </comp>
+    <comp ref="TP10">
+      <value>TestPoint_Probe</value>
+      <footprint>elec240_ornament_footprint:TestPoint_THTPad_3.0x3.0mm_Drill1.5mm</footprint>
+      <libsource lib="elec240_ornament_symbol" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Speaker.kicad_sch"/>
+      <property name="ki_description" value="test point (alternative probe-style design)"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aa7b6c02-940b-4257-b7d7-9fee90b22553</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>LM386</value>
+      <footprint>elec240_ornament_footprint:DIP794W45P254L959H508Q8</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/lm386.pdf</datasheet>
+      <libsource lib="Amplifier_Audio" part="LM386" description="Low Voltage Audio Power Amplifier, DIP-8/SOIC-8/SSOP-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Speaker.kicad_sch"/>
+      <property name="ki_description" value="Low Voltage Audio Power Amplifier, DIP-8/SOIC-8/SSOP-8"/>
+      <property name="ki_keywords" value="single Power opamp"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>34ae1283-c252-4439-b0e7-1187fb3881f2</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Amplifier_Audio" part="LM386">
+      <description>Low Voltage Audio Power Amplifier, DIP-8/SOIC-8/SSOP-8</description>
+      <docs>http://www.ti.com/lit/ds/symlink/lm386.pdf</docs>
+      <footprints>
+        <fp>SOIC*3.9x4.9mm*P1.27mm*</fp>
+        <fp>DIP*W7.62mm*</fp>
+        <fp>MSSOP*P0.65mm*</fp>
+        <fp>TSSOP*3x3mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM386</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/lm386.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GAIN" type="input"/>
+        <pin num="2" name="-" type="input"/>
+        <pin num="3" name="+" type="input"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="" type="output"/>
+        <pin num="6" name="V+" type="power_in"/>
+        <pin num="7" name="BYPASS" type="input"/>
+        <pin num="8" name="GAIN" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="elec240_ornament_symbol" part="1291-66">
+      <fields>
+        <field name="Reference">BT</field>
+        <field name="Value">1291-66</field>
+        <field name="Footprint">1291-66:BAT_1291-66</field>
+        <field name="MF">Keystone Electronics</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">21.77 mm</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/1291-66/Keystone+Electronics/view-part/?ref=eda</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="PARTREV">A</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/1291-66/Keystone+Electronics/view-part/?ref=snap</field>
+        <field name="MP">1291-66</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=5529493&amp;manufacturer=Keystone Electronics&amp;part_name=1291-66&amp;search_term=1291-66</field>
+        <field name="Description">
+Battery Holder, Lithium-Ion, THM, 1 Cell, Cell Size 9V, Alum/Tin | Keystone Electronics 1291-66
+</field>
+        <field name="MANUFACTURER">Keystone Electronics</field>
+        <field name="Availability">In Stock</field>
+        <field name="SNAPEDA_PN">1291-66</field>
+      </fields>
+      <pins>
+        <pin num="N" name="" type="passive"/>
+        <pin num="P" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="elec240_ornament_symbol" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="elec240_ornament_symbol" part="COM-09806">
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">COM-09806</field>
+        <field name="Footprint">COM-09806:TRIM_COM-09806</field>
+        <field name="MF">SparkFun Electronics</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">5.08 mm</field>
+        <field name="Package">DIP-3 SparkFun Electronics</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/COM-09806/SparkFun+Electronics/view-part/?ref=eda</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="PARTREV">N/A</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/COM-09806/SparkFun+Electronics/view-part/?ref=snap</field>
+        <field name="MP">COM-09806</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=1133817&amp;manufacturer=SparkFun Electronics&amp;part_name=COM-09806&amp;search_term=com-09806</field>
+        <field name="Description">
+10 kOhms 0.5W, 1/2W PC Pins Through Hole Trimmer Potentiometer Cermet 1.0 Turn Top Adjustment
+</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">Sparkfun</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="elec240_ornament_symbol" part="R_US">
+      <description>Resistor, US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="elec240_ornament_symbol" part="SJ1-3535NG-PI">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">SJ1-3535NG-PI</field>
+        <field name="Footprint">SJ1-3535NG-PI:CUI_SJ1-3535NG-PI</field>
+        <field name="MF">CUI Devices</field>
+        <field name="Description">3.5 mm Right-Angle Stereo Jack, 5 pin PCB PCB Mount, Isolated Ground, Pink</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/SJ1-3535NG-PI/CUI+Devices/view-part/?ref=eda</field>
+        <field name="STANDARD">Manufacturer recommendation</field>
+        <field name="PARTREV">1.02</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/SJ1-3535NG-PI/CUI+Devices/view-part/?ref=snap</field>
+        <field name="MP">SJ1-3535NG-PI</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=464338&amp;manufacturer=CUI Devices&amp;part_name=SJ1-3535NG-PI&amp;search_term=sj1-3535ng-pi</field>
+        <field name="CUI_purchase_URL">https://www.cuidevices.com/product/interconnect/connectors/audio-connectors/jacks/sj1-3535ng-pi?utm_source=snapeda.com&amp;utm_medium=referral&amp;utm_campaign=snapedaBOM</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">CUI</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+        <pin num="5" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="elec240_ornament_symbol" part="SMS-1508MS-HT-R">
+      <fields>
+        <field name="Reference">LS</field>
+        <field name="Value">SMS-1508MS-HT-R</field>
+        <field name="Footprint">SMS-1508MS-HT-R:SPKR_SMS-1508MS-HT-R</field>
+        <field name="MF">PUI Audio, Inc.</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">4 mm</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/SMS-1508MS-HT-R/PUI+Audio%252C+Inc./view-part/?ref=eda</field>
+        <field name="STANDARD">Manufacturer recommendations</field>
+        <field name="PARTREV">3/6/2020</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/SMS-1508MS-HT-R/PUI+Audio%252C+Inc./view-part/?ref=snap</field>
+        <field name="MP">SMS-1508MS-HT-R</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=5873664&amp;manufacturer=PUI Audio, Inc.&amp;part_name=SMS-1508MS-HT-R&amp;search_term=speaker</field>
+        <field name="Description">
+SPEAKER .8W 8OHM 92DB 800HZ
+</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">PUI Audio, Inc.</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="elec240_ornament_symbol" part="TestPoint_Probe">
+      <description>test point (alternative probe-style design)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Pin*</fp>
+        <fp>Test*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">TestPoint_Probe</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Amplifier_Audio">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Amplifier_Audio.kicad_sym</uri>
+    </library>
+    <library logical="elec240_ornament_symbol">
+      <uri>C:/Users/grego/Downloads/elec240_ornament_symbol.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="GND">
+      <node ref="BT1" pin="N" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="J2" pin="1" pintype="passive"/>
+      <node ref="J2" pin="3" pintype="passive"/>
+      <node ref="J2" pin="4" pintype="passive"/>
+      <node ref="J2" pin="5" pintype="passive"/>
+      <node ref="LS2" pin="2" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="-" pintype="input"/>
+      <node ref="U1" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="7" pinfunction="BYPASS" pintype="input"/>
+    </net>
+    <net code="2" name="Net-(C5-Pad1)">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="LS2" pin="1" pintype="passive"/>
+      <node ref="TP6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP7" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="5" pintype="output"/>
+    </net>
+    <net code="3" name="Net-(C5-Pad2)">
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="TP8" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="4" name="Net-(C8-Pad1)">
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="GAIN" pintype="input"/>
+    </net>
+    <net code="5" name="Net-(C8-Pad2)">
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="GAIN" pintype="input"/>
+    </net>
+    <net code="6" name="Net-(J2-Pad2)">
+      <node ref="J2" pin="2" pintype="passive"/>
+      <node ref="R1" pin="3" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(U1-+)">
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="TP10" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="8" name="Net-(U1-V+)">
+      <node ref="BT1" pin="P" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="V+" pintype="power_in"/>
+    </net>
+  </nets>
+</export>
