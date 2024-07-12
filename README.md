@@ -7,6 +7,17 @@ The variable resistance was connected to the inverting input so the amount of vo
 ![LTSPice Circuit](LTSpice.png)
 
 
+Input to speaker:
+![LTSPice Input](Input.png)
+
+Output From Amplifier:
+![LTSPice Amp Out](AmplifierOutput.png)
+
+Voltage Across Speaker:
+![LTSPice Speaker Out](SpeakerVoltageDissipation.png)
+
+
+
 ### KiCad
 ![PCB Design](PCBdesign.png)
 ![PCB Design](KiCad.png)
